@@ -1,3 +1,9 @@
+/*
+Créez un tableau de cartes (par exemple, des cartes de jeu comme le poker ou le jeu des 7 familles). 
+Utilisez forEach pour distribuer les cartes aux joueurs de manière aléatoire et afficher les mains de chaque joueur.
+*/
+
+
 let arrayCartes = ["As","Roi","Dame","Valet","2 de coeur","3 de coeur","4 de coeur","5 de coeur","6 de coeur","7 de coeur","8 de coeur","9 de coeur", "10 de coeur"]
 const joueurs = [];
 
